@@ -1,0 +1,76 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 20px auto; /* Ajout de "auto" pour centrer horizontalement */
+    color: #333;
+    font-weight: 300;
+    max-width: 800px; /* Ajout d'une largeur maximale pour limiter la largeur du contenu */
+    padding: 20px; /* Ajout d'un peu d'espace intérieur */
+}
+
+.header-image {
+    text-align: center; /* Centrage de l'image horizontalement */
+    margin-bottom: 20px; /* Ajout d'une marge en dessous de l'image */
+}
+
+.header-image img {
+    max-width: 100%; /* Adaptation de la largeur de l'image à la largeur du conteneur */
+    height: auto; /* Ajustement de la hauteur de l'image automatiquement */
+    display: block; /* Suppression de l'espace supplémentaire sous l'image */
+    margin: 0 auto; /* Centrage de l'image horizontalement (redondant avec text-align, mais assure le centrage) */
+}
+
+.article-info {
+    display: flex;
+    align-items: center;
+}
+
+.article-info time {
+    font-style: italic;
+    color: #777;
+    margin-right: 10px;
+}
+
+.article-info address {
+    font-style: normal;
+}
+
+h1, h2 {
+    font-family: 'Sora', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    background-color: #f9f9f9;
+    border-left: 5px solid #ccc;
+    margin: 10px 0;
+    padding: 10px 20px;
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
