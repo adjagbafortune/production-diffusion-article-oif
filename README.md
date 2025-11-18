@@ -8,4 +8,9 @@ Lancement d'une application de gestion de courses en ligne :
 - Optimisation SEO : Utilisation de la méta-description et des mots-clés pertinents ("application courses en ligne," "comparateur prix courses," etc.) ainsi qu'une structure H1/H2 pour un meilleur positionnement.
 - Expertises : marketing numérique, Rédaction web et développement front-end.
 
+## Démo en Direct
+
+Vous pouvez consulter la démo en direct du jeu ici :
+
+[![Voir la Démo](https://img.shields.io/badge/Démo-En%20Direct-brightgreen)](https://adjagbafortune.github.io/https://adjagbafortune.github.io/production-diffusion-article-oif//)
 
